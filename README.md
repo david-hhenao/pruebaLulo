@@ -1,3 +1,4 @@
 README:
 
-1. Ejecutar 0_adquirirData.py YYYY-MM-DD para descargar la data en formato .json
+1. Ejecutar 0_adquirirData.ipynb para obtener todos los JSON
+2. 
